@@ -1,0 +1,11 @@
+---
+eponymous:
+  hosts:
+    localhost
+  vars:
+    ansible_connection: local
+
+#workstation:
+#  hosts:
+#    workstation.lab.example.com
+
